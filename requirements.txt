@@ -1,9 +1,0 @@
-streamlit>=1.40
-pandas>=2.0
-numpy>=1.26
-pypdf>=5.0
-sentence-transformers>=3.0
-groq>=0.30
-Pillow>=10.0
-pytesseract>=0.3.13
-python-dotenv
